@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/ecb15f22-0c0a-41d3-821f-8bb595bc9cc4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/angular-attempt-i",
+  "appService.deploySubpath": "."
+}
